@@ -1,0 +1,8 @@
+{
+  "domain": "serial_espnow",
+  "name": "Serial ESP-Now",
+  "documentation": "https://www.home-assistant.io/integrations/serial_espnow",
+  "requirements": ["pyserial-asyncio==0.4"],
+  "dependencies": [],
+  "codeowners": ["@penright"]
+}
